@@ -1,2 +1,4 @@
-# Maratona-IBM-2020
-MAratona IMB 2020 
+# Maratona IMB 2020
+
+Desafio 1 Cocamar
+Desafio 2 UNINASSAU
